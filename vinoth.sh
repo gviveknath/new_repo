@@ -1,6 +1,6 @@
 #! /bin/bash
 
 #
-name=viveknath
+name=$1
 echo " `whoami`-$name "
 
